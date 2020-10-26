@@ -1,6 +1,6 @@
-### Hi There , I'm Vishnu Joshi
+# Hey There 👋🏻 , I'm Vishnu Joshi
 
-# I'm a student , an aviation fanatic , and avid programmer
+### I'm a student , an aviation fanatic , and avid programmer
 
 <!--
 **Joshi-Hiroshi/Joshi-Hiroshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
